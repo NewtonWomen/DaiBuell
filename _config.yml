@@ -46,7 +46,6 @@ avatar: "/img/avatar-icon.png"
 # title-img: /path/to/image
 
 # --- Background colour/image options --- #
-
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#F5F5F5"
@@ -58,9 +57,10 @@ hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-#*** 
+
+ 
 # End of section from from https://github.com/daattali/beautiful-jeky
-#
+
 
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
